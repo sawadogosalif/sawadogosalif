@@ -6,7 +6,7 @@
 
 <p align="center">
     <img width="270" src="https://www.kindpng.com/picc/m/296-2961034_master-setup-data-center-hd-png-download.png"/><br>
-    I'm an <b>ML Engineer enthusiast</b> specializing in <b>Statistical Modeling</b> and <b>end-to-end Data Science</b>.
+    I'm an end-to-end Data Scientist</b>.
       
 - 🔭 I’m currently involved in cutting-edge work related to <b>predictive maintenance</b> and <b>equipment health monitoring</b> ✈✈✈✈.
       
